@@ -1,0 +1,56 @@
+Sound Recorder Manual V2.5
+
+------------------------
+SUMMARY OF CHANGES
+------------------------
+
+Created by: Irene Ryan
+Date: 14 May 2002
+Manual version: 2.0 
+
+Updated by: Irene Ryan
+Date: June 2002
+Manual version: 2.1
+Summary of changes: 
+* Updated manual to reflect UI changes.
+
+Updated by: Irene Ryan
+Date: 02 August 2002
+Manual version: 2.2
+Summary of changes: 
+* Updated manual following consistency review of all ORMs.
+
+Updated by: Irene Ryan
+Date: January 2003
+Manual version: 2.3
+Summary of changes: 
+* Minor updates throughout
+* Removed defaults in Preferences
+* Fixed BugTraq # 4802020 for Sun GNOME 2.0.2
+
+Updated by: Irene Ryan
+Date: 05 September 2003
+Manual version: 2.4
+Summary of changes: 
+* Updated to reflect changes in Sound Recorder 2.2.2 for the GNOME 2.4 release.
+  A lot of sections are no longer relevant, such as Preferences, so these sections
+  are commented out for now.
+
+Updated by: Breda McColgan
+Date: February 2004
+Manual version: 2.5
+Summary of changes: 
+* Updated to reflect changes in Sound Recorder 2.5.2 for the GNOME 2.6 release.
+* Updated screenshot. 
+
+------------------------
+SCREENSHOT INSTRUCTIONS
+------------------------
+
+grecord_window.png
+
+1. Start Sound Recorder (Applications -> Multimedia -> Sound Recorder).
+2. Ensure that the window has focus. If it does not, click on the window to give it focus.
+3. Resize the window to a suitable size.
+4. Take a screenshot of the window. 
+5. Save the file to PNG.

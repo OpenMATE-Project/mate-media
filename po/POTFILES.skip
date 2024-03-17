@@ -1,0 +1,8 @@
+gnome-volume-control/data/gnome-volume-control.desktop.in
+gnome-volume-control/data/sounds/gnome-sounds-default.xml.in
+grecord/gnome-sound-recorder.desktop.in
+grecord/gnome-sound-recorder.schemas.in
+gst-mixer/gnome-volume-control.desktop.in
+gstreamer-properties/gstreamer-properties.desktop.in
+profiles/gnome-audio-profiles.schemas.in
+sound-theme/sounds/gnome-sounds-default.xml.in
